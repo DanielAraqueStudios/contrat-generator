@@ -1,0 +1,46 @@
+{
+  "contratante_razon_social": "Dulces El Trapiche S.A.S",
+  "contratante_nit": "890932227-3",
+  "contratante_representante": "Edison Ramírez Serna Quintero",
+  "contratante_cc_representante": "8106027",
+  "contratante_domicilio": "La Estrella, Antioquia",
+  "contratante_direccion": "Cra 51 # 95A Sur -13",
+  
+  "contratista_nombre": "GERMÁN GARCÍA PÉREZ",
+  "contratista_cc": "79155480",
+  "contratista_domicilio": "Sabaneta",
+  "contratista_direccion": "carrera 40 # 71 sur-15",
+  
+  "objeto_servicios": "Desarrollo de página web a medida, con integración de comercio electrónico. Implementación de bot de WhatsApp para atención automatizada, coaching empresarial enfocado en estrategias de crecimiento.",
+  
+  "valor_total": 7040667,
+  "valor_total_letras": "",
+  
+  "pagos": [
+    {
+      "concepto": "Desarrollo web a medida con comercio electrónico",
+      "anticipo": 2904400,
+      "fecha_anticipo": "14 de enero de 2025",
+      "saldo": 1936000
+    },
+    {
+      "concepto": "Bot de Whatsapp a medida",
+      "anticipo": 1320000,
+      "fecha_anticipo": "14 de enero de 2025",
+      "saldo": 880000
+    }
+  ],
+  
+  "banco": "Bancolombia",
+  "tipo_cuenta": "cuenta de ahorros",
+  "numero_cuenta": "912-381559-89",
+  "titular_cuenta": "Daniel García Araque",
+  "cc_titular": "1000718485",
+  
+  "fecha_firma": "catorce (14) días del mes de enero de 2025",
+  "lugar_firma": "Sabaneta, Antioquia",
+  
+  "retencion_minima": "1'344.573",
+  "penalidad_porcentaje": "20",
+  "dias_gracia": "5"
+}
